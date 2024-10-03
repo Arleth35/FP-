@@ -18,4 +18,4 @@ Lista numerada
    _italica texto_
    **_negrita italica_**
 
-   ![Imagen programacion] https://impulso06.com/wp-content/uploads/2024/01/Lenguajes-de-programacion-esenciales-para-tener-trabajo-en-2024.png
+   ! [Imagen programacion] https://impulso06.com/wp-content/uploads/2024/01/Lenguajes-de-programacion-esenciales-para-tener-trabajo-en-2024.png
